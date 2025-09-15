@@ -8,7 +8,7 @@ I worked on projects such as [GooberAI](https://github.com/beannfeeder/GooberAI)
 Currently learning Unix, Java and R
 
 ## Socials!
-[LinkedIn](https://www.linkedin.com/in/ngyanbin27/)
+[LinkedIn](https://www.linkedin.com/in/ngyanbin27/) \n
 Email: yanbinngg027@gmail.com
 
 ## Fun Fact!
