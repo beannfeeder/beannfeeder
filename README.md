@@ -1,4 +1,19 @@
-## Hi there 👋
+# Hello! I am Yan Bin 👋
+
+## About Me!
+I am a Year 2 Semester 2 Student in Monash University, Majoring in Business Analytics and Computer Science!
+
+I worked on projects such as [GooberAI](https://github.com/beannfeeder/GooberAI) and [OddJobs-dApp](https://github.com/beannfeeder/OddJobs-dApp)
+
+Currently learning Unix, Java and R
+
+## Socials!
+[LinkedIn](https://www.linkedin.com/in/ngyanbin27/)
+Email: yanbinngg027@gmail.com
+
+## Fun Fact!
+I use Github not only for storing my code, but also for looking up mods for games that I play!
+
 
 <!--
 **beannfeeder/beannfeeder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
