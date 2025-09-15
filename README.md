@@ -8,8 +8,8 @@ I worked on projects such as [GooberAI](https://github.com/beannfeeder/GooberAI)
 Currently learning Unix, Java and R
 
 ## Socials!
-[LinkedIn](https://www.linkedin.com/in/ngyanbin27/) \n
-Email: yanbinngg027@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/ngyanbin27/)
+- Email: yanbinngg027@gmail.com
 
 ## Fun Fact!
 I use Github not only for storing my code, but also for looking up mods for games that I play!
