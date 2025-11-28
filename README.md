@@ -7,9 +7,11 @@ I worked on projects such as [GooberAI](https://github.com/beannfeeder/GooberAI)
 
 Currently learning Java, R and SQL
 
-Tech Stack:
+Tech Stack: 
+
 Intermediate: Python
-Beginner: 
+
+Beginner: SQL, R
 
 ## Socials!
 - [LinkedIn](https://www.linkedin.com/in/ngyanbin27/)
