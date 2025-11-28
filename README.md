@@ -5,7 +5,11 @@ I am a Year 2 Semester 2 Student in Monash University, Majoring in Business Anal
 
 I worked on projects such as [GooberAI](https://github.com/beannfeeder/GooberAI) and [OddJobs-dApp](https://github.com/beannfeeder/OddJobs-dApp)
 
-Currently learning Unix, Java and R
+Currently learning Java, R and SQL
+
+Tech Stack:
+Intermediate: Python
+Beginner: 
 
 ## Socials!
 - [LinkedIn](https://www.linkedin.com/in/ngyanbin27/)
